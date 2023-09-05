@@ -1,0 +1,12 @@
+{
+  "server_address": "CHANGE_ME",
+  "server_port": 1883,
+  "server_user": "CHANGE_ME",
+  "server_password": "CHANGE_ME",
+  "available_frequency_bands": [
+      "AU915",
+      "EU868",
+      "US915"
+      ],
+  "selected_frequency_band": "AU915"
+}
