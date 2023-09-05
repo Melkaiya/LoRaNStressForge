@@ -1,1 +1,0 @@
-{  "server_address": "159.65.42.251",  "server_port": 1883,  "server_user": "gateway@vistatech.tech",  "server_password": "ConnectMe2023",  "available_frequency_bands": [      "AU915",      "EU868",      "US915"      ],  "selected_frequency_band": "AU915"}
